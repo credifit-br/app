@@ -68,5 +68,12 @@
         <pubDate>Fri, 11 Jun 2021 12:00:00 +0000</pubDate>
         <enclosure url="https://play.google.com/store/apps/details?id=br.com.credifit.consignado" sparkle:version="1.11.0" sparkle:os="android" />
     </item>
+    <item>
+        <title>Version 1.12.0</title>
+        <description>desc</description>
+        <pubDate>Tue, 29 Jun 2021 12:00:00 +0000</pubDate>
+        <enclosure url="https://play.google.com/store/apps/details?id=br.com.credifit.consignado" sparkle:version="1.12.0" sparkle:os="android" />
+    </item>
+    
   </channel>
 </rss>
